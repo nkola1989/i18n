@@ -1,0 +1,9 @@
+{
+  "language":"en",
+  "translations": {
+      "greeting": "Hello {{user.name}} {{user.surname}}!",
+      "test": "TEXT IN ENGLISH",
+      "language":"en"
+  }
+
+}

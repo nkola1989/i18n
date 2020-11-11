@@ -1,0 +1,8 @@
+{
+  "language":"it",
+  "translations":{
+    "greeting":"Ciao {{user.name}} {{user.surname}}!",
+    "language":"it"
+  }
+
+}
